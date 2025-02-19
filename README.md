@@ -57,9 +57,6 @@ import GridFlatList from 'grid-flatlist-react-native';
 | showsVerticalScrollIndicator | Boolean | false | When true, shows a vertical scroll indicator |
 | ... | ... | ... |  Any [Native FlatList properties](https://reactnative.dev/docs/flatlist#itemseparatorcomponent) are appliable. |
 
-## Support
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dkob2852E)
 
 ## License
 
